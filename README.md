@@ -1,6 +1,5 @@
-#Codes in C for sorting and other rudimentary tasks
-#Also Codes in Python and R for Data Science and Machine Learning Algorithms - Pandas and Numpy tutorial
+Codes in C for sorting and other rudimentary tasks
 
-All the mathematical and Statistical algorithms.
+Codes in Python and R for Data Science and Machine Learning Algorithms and workflows - Pandas and Numpy tutorial
 
-This is version 1
+A few Mathematical Tests and algorithms
